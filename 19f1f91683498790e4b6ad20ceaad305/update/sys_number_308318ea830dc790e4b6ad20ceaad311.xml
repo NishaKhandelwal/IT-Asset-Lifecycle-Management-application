@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1920732_it_ass_0_laptop">x_1920732_it_ass_0_laptop</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>LAP</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-27 02:05:08</sys_created_on>
+        <sys_id>308318ea830dc790e4b6ad20ceaad311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LAP</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_update_name>sys_number_308318ea830dc790e4b6ad20ceaad311</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-27 02:05:08</sys_updated_on>
+    </sys_number>
+</record_update>

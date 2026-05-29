@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=2820000,viewActivatedIn=naturalLanguage</attributes>
+        <authored_on_release_version>28100</authored_on_release_version>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from>ac6f7e4b83c10f90e4b6ad20ceaad36a</copied_from>
+        <copied_from_name>Stale Problem Reminder Flow</copied_from_name>
+        <description/>
+        <display_name_after_preview/>
+        <flow_priority>MEDIUM</flow_priority>
+        <generation_source/>
+        <internal_name>copy_of_stale_problem_reminder_flow</internal_name>
+        <label_cache>[{"name":"22c32a72-21f4-40c4-98b7-add77fb3fba2.__action_status__","label":"5➛Action Status","reference":null,"reference_display":"Action Status","type":"object","base_type":"object","parent_table_name":null,"column_name":null,"choices":null,"usedInstances":{},"attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"2c9784bc-8353-44a3-9f94-60a3031b9c77.stale_records.assigned_to","label":"1➛stale_records➛Assigned to","reference":"sys_user","reference_display":"Assigned to","type":"reference","base_type":"reference","parent_table_name":"problem","column_name":"assigned_to","choices":[{"label":null,"value":null,"order":0.0}],"usedInstances":{},"attributes":null},{"name":"2c9784bc-8353-44a3-9f94-60a3031b9c77.stale_records","label":"1 - Get Stale Problem Records➛stale_records","reference":"problem","reference_display":"Problem","type":"glide_list","base_type":"glide_list","parent_table_name":null,"column_name":null,"choices":null,"usedInstances":{"80430fa2-be04-4173-8589-2edc72c811a6":["items"]},"attributes":{"uiType":"glide_list","uiTypeLabel":"List","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"28352555-37c4-4fd7-8665-7aa1dac0b962"}},{"name":"80430fa2-be04-4173-8589-2edc72c811a6.item.assigned_to.first_name","label":"2➛Problem Record➛Assigned to➛Assigned to➛First name","reference":"","reference_display":"First name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"first_name","choices":[{"order":0.0}],"usedInstances":{},"attributes":null},{"name":"80430fa2-be04-4173-8589-2edc72c811a6.item","label":"2 - For Each➛Problem Record","reference":"problem","reference_display":"Problem","type":"reference","base_type":"reference","parent_table_name":null,"column_name":null,"choices":null,"usedInstances":{},"attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"80430fa2-be04-4173-8589-2edc72c811a6.item.number","label":"2 - For Each➛Problem Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"problem","column_name":"number","choices":[{"label":null,"value":null,"order":0.0}],"usedInstances":{},"attributes":null},{"name":"e3fb4765-dee0-416e-8167-dad589c08ffd.Records","label":"4➛Problem Records","reference":"problem","reference_display":"Problem Records","type":"records","base_type":"records","parent_table_name":null,"column_name":null,"choices":null,"usedInstances":{},"attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"flow_variable.processed_users","label":"Flow Variables➛processed_users","reference":"","reference_display":"","type":"array.object","base_type":"array.object","parent_table_name":null,"column_name":null,"choices":[{"label":null,"value":null,"order":0.0}],"usedInstances":{"98b0786b-fa2c-4029-8a1e-9c84038c7f11":["condition"],"3cd68509-185a-40ed-9928-bff2f4403af5":["processed_users-0"]},"attributes":{"sourceId":"","sourceUiUniqueId":"","sourceType":"","uiUniqueId":"e4ccdc24-5fea-4e6c-9268-c16b83e0593f"}},{"name":"80430fa2-be04-4173-8589-2edc72c811a6.item.assigned_to","label":"2➛Problem Record➛Assigned to","reference":"sys_user","reference_display":"Assigned to","type":"reference","base_type":"reference","parent_table_name":"problem","column_name":"assigned_to","choices":[{"label":null,"value":null,"order":0.0}],"usedInstances":{},"attributes":null},{"name":"80430fa2-be04-4173-8589-2edc72c811a6.item.assigned_to.email","label":"2➛Problem Record➛Assigned to➛Assigned to➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email","choices":null,"usedInstances":{},"attributes":null},{"name":"80430fa2-be04-4173-8589-2edc72c811a6.item.state","label":"2 - For Each➛Problem Record➛State","reference":"","reference_display":"State","type":"choice","base_type":"choice","parent_table_name":"problem","column_name":"state","choices":[{"label":"New","used":false,"image":"","rawLabel":"New","selected":false,"missing":false,"reference":false,"value":"101","parameters":{"name":"problem","dependent_values":[""]}},{"label":"Assess","used":false,"image":"","rawLabel":"Assess","selected":false,"missing":false,"reference":false,"value":"102","parameters":{"name":"problem","dependent_values":[""]}},{"label":"Root Cause Analysis","used":false,"image":"","rawLabel":"Root Cause Analysis","selected":false,"missing":false,"reference":false,"value":"103","parameters":{"name":"problem","dependent_values":[""]}},{"label":"Fix in Progress","used":false,"image":"","rawLabel":"Fix in Progress","selected":false,"missing":false,"reference":false,"value":"104","parameters":{"name":"problem","dependent_values":[""]}},{"label":"Resolved","used":false,"image":"","rawLabel":"Resolved","selected":false,"missing":false,"reference":false,"value":"106","parameters":{"name":"problem","dependent_values":[""]}},{"label":"Closed","used":false,"image":"","rawLabel":"Closed","selected":false,"missing":false,"reference":false,"value":"107","parameters":{"name":"problem","dependent_values":[""]}}],"usedInstances":{},"attributes":null}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <master_snapshot_digest/>
+        <name>Copy of Stale Problem Reminder Flow</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <substatus/>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:24:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7bcf019b83418f90e4b6ad20ceaad33f</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>Copy of Stale Problem Reminder Flow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_update_name>sys_hub_flow_7bcf019b83418f90e4b6ad20ceaad33f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:41:41</sys_updated_on>
+        <type>flow</type>
+        <updation_source/>
+        <version>2</version>
+        <version_record>28d3559383818f90e4b6ad20ceaad3d0</version_record>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=7bcf019b83418f90e4b6ad20ceaad33f"/>
+    <sys_variable_value action="delete_multiple" query="document_key=7bcf019b83418f90e4b6ad20ceaad33f"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=7bcf019b83418f90e4b6ad20ceaad33f"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=7bcf019b83418f90e4b6ad20ceaad33f^sys_idNOT IN37cf019b83418f90e4b6ad20ceaad345"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>7bcf019b83418f90e4b6ad20ceaad33f</id>
+        <name>Copy of Stale Problem Reminder Flow</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:24:01</sys_created_on>
+        <sys_id>37cf019b83418f90e4b6ad20ceaad345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:24:01</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=37cf019b83418f90e4b6ad20ceaad345"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=7bcf019b83418f90e4b6ad20ceaad33f"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=7bcf019b83418f90e4b6ad20ceaad33f"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=7bcf019b83418f90e4b6ad20ceaad33f"/>
+    <sys_hub_trigger_instance_v2 action="delete_multiple" query="flow=7bcf019b83418f90e4b6ad20ceaad33f^sys_idNOT INffcf019b83418f90e4b6ad20ceaad361"/>
+    <sys_hub_trigger_instance_v2 action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="Copy of Stale Problem Reminder Flow">7bcf019b83418f90e4b6ad20ceaad33f</flow>
+        <generation_source/>
+        <name>Daily</name>
+        <published_version/>
+        <remote_sys_id/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:24:01</sys_created_on>
+        <sys_id>ffcf019b83418f90e4b6ad20ceaad361</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:24:01</sys_updated_on>
+        <trigger_definition display_value="Daily">89142dc0c32222002841b63b12d3ae8a</trigger_definition>
+        <trigger_inputs>H4sIAAAAAAAA/31STUvDQBD9K7LnGjaNn7kJInhQwRYvImGyO2kX9svNpjaK/93ZJC1axbCXeTPz5r1Hnj+Yhho1K9lSGWQzpmzEYEEve4+ErrSSWMWxZ8BKiC70rIyhwxlrgjNLNF5DpOEGdEugCxIDK3POZ2wDusNF395K4iIGCyaxTnxDl8r88pwf85zeUc5Lnh51pWqJuH/6d0islZYBLSufX2bMQ6ADMZ3/OGippKAAeYJScFHM6eN8fnGS12dFnc9lAYinRHgQx0/B8Y9QvtvFbUQrUe6z+JVYQJAPVvf7iTUFPmZjYNuqd5yoAjZI4gWOzX1ZTbGMsFg7JfDBR+XsiESo9bQjnO6MvR8dpECxgU7HXaCEdC3xoU+ak4pJUrNYu7fH3cEbZQeDU1M7AXpfQYxB1V3ENiWOGg0RVQa8V3ZV+eA2algmLSYbYssa7d7oaKtWNgORhGcUEWQ3hF8P8BMElVzcEQ0tfw7uq9cu3R19TIqr0TQNtCIoH6+IbrP7ET9fvgBJnsjv3QIAAA==</trigger_inputs>
+        <trigger_outputs/>
+        <trigger_type>daily</trigger_type>
+        <updation_source/>
+    </sys_hub_trigger_instance_v2>
+    <sys_hub_action_instance_v2 action="delete_multiple" query="flow=7bcf019b83418f90e4b6ad20ceaad33f^sys_idNOT IN2e41115f83418f90e4b6ad20ceaad381,dbe0151f83418f90e4b6ad20ceaad392"/>
+    <sys_hub_action_instance_v2 action="INSERT_OR_UPDATE">
+        <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
+        <action_type_parent/>
+        <attributes/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Copy of Stale Problem Reminder Flow">7bcf019b83418f90e4b6ad20ceaad33f</flow>
+        <generation_source/>
+        <order>5</order>
+        <parent_ui_id>98b0786b-fa2c-4029-8a1e-9c84038c7f11</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:30:29</sys_created_on>
+        <sys_id>2e41115f83418f90e4b6ad20ceaad381</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:31:52</sys_updated_on>
+        <ui_id>22c32a72-21f4-40c4-98b7-add77fb3fba2</ui_id>
+        <updation_source/>
+        <values>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</values>
+    </sys_hub_action_instance_v2>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=2e41115f83418f90e4b6ad20ceaad381"/>
+    <sys_hub_action_instance_v2 action="INSERT_OR_UPDATE">
+        <action_type display_value="Look Up Records">43400a1587003300663ca1bb36cb0b4b</action_type>
+        <action_type_parent/>
+        <attributes/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Copy of Stale Problem Reminder Flow">7bcf019b83418f90e4b6ad20ceaad33f</flow>
+        <generation_source/>
+        <order>4</order>
+        <parent_ui_id>98b0786b-fa2c-4029-8a1e-9c84038c7f11</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:28:54</sys_created_on>
+        <sys_id>dbe0151f83418f90e4b6ad20ceaad392</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:30:17</sys_updated_on>
+        <ui_id>e3fb4765-dee0-416e-8167-dad589c08ffd</ui_id>
+        <updation_source/>
+        <values>H4sIAAAAAAAA/+VWTU/jMBD9K1XOpXKatHQ5gfiQkPhYAeLCQjSJnWLhxtnYoZSq/33HcZKWNkC76qGrPUWZsT1vZt4b+2HqcOocOCT2CQG3N9gnxPMI6fe9CNww9PpRSMLeD6ftJDBiuFLJTAd6kjI0vYLIaxuoCE2Uq1TA5L70QEvL1jvao2cuaMYS5+Dhse2kkOFpmmXOwXTJtS4cASETuPQWY7fuLJ4GiMXnAGNIHlX/F+XW48ooM2qgeG2HvWmWUIYYYhCKtZ0RJBS0zCa1JWNArxMxNzzzRONpjln8pvg7xvO6Zl3MMKuIWV/9G5Qlsub4BDTc6iyPdJ6VSy1YhfWY1mnWhWyoeQmfzNrz9e9mPSyvp2xxgzvDelMWQy708d/FdDeN2TUxbYLXqeYSu+54pi8Qiip9KfJRcmV76dQI7xvIZj0nn3AuV1hslpqGmg6V7Ypvn+X4purGGU8KXKVTyAhE/QdaZzzMtanL1IlpEHMmaMATwRMTCdtm6MMEG2GEYARpypNhkGbylRenYi6jzlDgTycWcmxqwYdJByKTeQeJBZ0ztJ8U5nvIuKnCJR6Dm9sm4DNuLeMFKsp4qoMxp0Om59GrVVTqMYiXJn/JuKBqVJGeM2s7aqKOBSg1LzbSNPidmxrY0pfVC4pGFVsKFEeYwSsrC2U4UMg22v9Str0lidpGL/BldX5sPDnWgFBV4dowshVOPkNVjg7b82LFx/FxZhytK+uo6L21ETIg2xkhTRJfleBGClyVlqHav6OszYlva/MN+/0vL62+O+cZNjnImMKSqgX2u4SQVQW4bWveTAZrYKlkcAlvrZsaTCPCUglIUjYsJtOiDM5ra6kBf2sa8HdXA1WzGm+gqmdbvoB2RQ3fCWHw9euNzGkWyYRyg3FRBwgEUTIaaPkrxxPodDogvkdi6O6FjPh7vrvv7Q16gx97XUaj/W40cF3od7hmo87C5tnsSWnQzB7iEv/p+uaDwXvCxIM8xfrgBpncnF4c3Z3fn17cHVKYyHjM2MshDOWh22t42e4mys3GxBqdqsbE8WKrmtpXvbSXbRdNB1TPxy2OCrK7w2LrF+auTIK17sWvSeaHcz7Z4+aTANNCw2hVfD9rxzb5XkCp+H5XYlmCVrK8+G16FBbblh6F5P98FO7mdYeAuECGBLaFSuZZUcrXIBK5KhwZJMqetcXL8fEPeLTDkmsRAAA=</values>
+    </sys_hub_action_instance_v2>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=dbe0151f83418f90e4b6ad20ceaad392"/>
+    <sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=7bcf019b83418f90e4b6ad20ceaad33f^sys_idNOT INbbcf019b83418f90e4b6ad20ceaad362"/>
+    <sys_hub_sub_flow_instance_v2 action="INSERT_OR_UPDATE">
+        <attributes/>
+        <comment/>
+        <display_text/>
+        <flow display_value="Copy of Stale Problem Reminder Flow">7bcf019b83418f90e4b6ad20ceaad33f</flow>
+        <generation_source/>
+        <order>1</order>
+        <parent_ui_id/>
+        <show_stages>false</show_stages>
+        <subflow display_value="Get Stale Problem Records">9e80c78f83cd0f90e4b6ad20ceaad3bb</subflow>
+        <subflow_inputs>H4sIAAAAAAAA/4uOBQApu0wNAgAAAA==</subflow_inputs>
+        <sys_class_name>sys_hub_sub_flow_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:24:01</sys_created_on>
+        <sys_id>bbcf019b83418f90e4b6ad20ceaad362</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:24:01</sys_updated_on>
+        <ui_id>2c9784bc-8353-44a3-9f94-60a3031b9c77</ui_id>
+        <updation_source/>
+        <wait_for_completion>true</wait_for_completion>
+    </sys_hub_sub_flow_instance_v2>
+    <sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=7bcf019b83418f90e4b6ad20ceaad33f^sys_idNOT IN3bcf019b83418f90e4b6ad20ceaad359,7980919b83418f90e4b6ad20ceaad32c"/>
+    <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">c5530f0783014f90e4b6ad20ceaad365</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <display_text/>
+        <flow display_value="Copy of Stale Problem Reminder Flow">7bcf019b83418f90e4b6ad20ceaad33f</flow>
+        <flow_variables_assigned/>
+        <generation_source/>
+        <logic_definition display_value="For Each">098e1dc5c3e232002841b63b12d3ae33</logic_definition>
+        <order>2</order>
+        <outputs_assigned/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:24:01</sys_created_on>
+        <sys_id>3bcf019b83418f90e4b6ad20ceaad359</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:41:31</sys_updated_on>
+        <ui_id>80430fa2-be04-4173-8589-2edc72c811a6</ui_id>
+        <updation_source/>
+        <values>H4sIAAAAAAAA/6VTy27bMBD8F55tQQ/XtnwLEgQI0DZAEuRSBMKKXNlEKVIlKTuq4H/v0qKVINeepB3uzs6MqJGZ3ne9dy/mxjm512z3623BpA4YvY9MQ4tsx6TH1rEFO4LqQz2OOS8321XNl9viW7FcraBYlk25Wq5TKNIiq0u+2STOg8LKIjdWuPOZCIR0nYLh9X95+EEqYTEK7sCSTo+W7cYvR1LQmqwUTZmlJS/ydZGnab5dZfW6qLNcFIBiTYQKalTU+hCdfjHuhy6UUUIEvseZpxmlRxCRpwuG7x61QFrfgHK4YC1oAd7Yge287QmwCOJRq2HuOEjtiY6F3ncn/9LGLE1DY4NkiON0OJdVTHOCmzvw8EzU3Pc2tvKDkRzdFIXABnrlbz9jU8Nj56XR04iHWl2njepb/XNKgs0E149HSO9IBHbBaJAefTTPB3N6uqq8l/oSSjxUhoOaK/Deyrr3Qc/IUGFLRFULXSf1vuqsOcrLMGlpk72iImmUOdHScF0T4EF4QrlCck/43QV+BSuDix9EQ8PnBXODu1Xg3IcXCrH60wclk7PooZpiCCPcys7f0IIjRrnnt/AHTNxzplw6kvASsIfrfxMOBrpBkn+GTsb+DuI/sPM/jqVIrYEDAAA=</values>
+        <workflow_reference/>
+    </sys_hub_flow_logic_instance_v2>
+    <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">b980919b83418f90e4b6ad20ceaad32b</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <display_text/>
+        <flow display_value="Copy of Stale Problem Reminder Flow">7bcf019b83418f90e4b6ad20ceaad33f</flow>
+        <flow_variables_assigned/>
+        <generation_source/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <parent_ui_id>80430fa2-be04-4173-8589-2edc72c811a6</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:27:10</sys_created_on>
+        <sys_id>7980919b83418f90e4b6ad20ceaad32c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:41:31</sys_updated_on>
+        <ui_id>98b0786b-fa2c-4029-8a1e-9c84038c7f11</ui_id>
+        <updation_source/>
+        <values>H4sIAAAAAAAA/+1Vy27bMBD8lYBnW9DDdhzfgjyAoHkUjRGgKFJhRa5iopSokpQTV9C/dynJTtCkaNL2UqA3cbi7nNkdUg3TtatqZ5f60Fp5V7LFp9sRk6XH6LthUrAFO4BpPo3CKU/iWRKHYTyfRNksyaJYJICTGRuxEgqkSK5LIZ3UJUFrULXHmmYeTpIwh3icYTgZT6L9ZDyfzg/GMQq+H/N5FMEskA6LADoWKFKn2/bs+vJqeXLxfvnxc9PkSt+nazASMoVBZTRHaymwtmhs21Lk3vnZu5PfPowIC2krBZubf403X0klDA7Dq8DQLBwatmh+2HrtMBVkqCj06Mk0Xxiw21Qess7I8m5Ynw+p11tQG+GpxOGI4YPDUiCRyEFZHLECSgFOmw1bOFMTYBDEVak2u4iVLB1VYz72wcpv6CuFoY/MkXRx7Hd3y3QYYg/nx+CAqNTc1WYI5SstaQZ9RwTmUCt39BTrA66qTmWX4vzshmyt6qK87JvBdgW2niGEBpsKrLxSz30Qkl+v9P2HLctTWXZdGTaV5qB2K3DUu6x2nk/DUGFBhdICqoo6mpKD1rJLJi5FcKdoEXQmE+htEQD3xANqLASnhB938M3gwAsqQ8nkBZtabmS11dYdztoRsxt7pMhijxqpuenX2jPsFQ/a0r49PqUrdEgHr3GQ0Y6GtyMPIY8OePSy3SB5wVppBzw+IM+v5ptN/woWz0y/13v55/ze4v/oF/4fkFddgOn0v///2P+eZgZW8rT721E5/wT9xQtw6w3cH7prNpeWuC09drb9x/qNDTlK8qfQvTZfvKpHrP0OV8hae60HAAA=</values>
+        <workflow_reference/>
+    </sys_hub_flow_logic_instance_v2>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=7bcf019b83418f90e4b6ad20ceaad33f^sys_idNOT IN00df019b83418f90e4b6ad20ceaad368,4cdf019b83418f90e4b6ad20ceaad367,b3cf019b83418f90e4b6ad20ceaad367,fa91995f83418f90e4b6ad20ceaad3ca"/>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>7bcf019b83418f90e4b6ad20ceaad33f</attached_to>
+        <extra_info/>
+        <order>0</order>
+        <prescription>{{80430fa2-be04-4173-8589-2edc72c811a6.item.number}}</prescription>
+        <source_ui_id/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:24:02</sys_created_on>
+        <sys_id>00df019b83418f90e4b6ad20ceaad368</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:24:02</sys_updated_on>
+        <transform_compositions>[]</transform_compositions>
+        <transform_definition_id/>
+        <ui_id>31815c5e-9765-4b98-9e75-d1ef089f6cd6</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>7bcf019b83418f90e4b6ad20ceaad33f</attached_to>
+        <extra_info/>
+        <order>0</order>
+        <prescription>{{80430fa2-be04-4173-8589-2edc72c811a6.item.state}}</prescription>
+        <source_ui_id/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:24:02</sys_created_on>
+        <sys_id>4cdf019b83418f90e4b6ad20ceaad367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:24:02</sys_updated_on>
+        <transform_compositions>[]</transform_compositions>
+        <transform_definition_id/>
+        <ui_id>d93898a1-746d-429d-a8d5-8510bf7526e4</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>7bcf019b83418f90e4b6ad20ceaad33f</attached_to>
+        <extra_info/>
+        <order>0</order>
+        <prescription>{{80430fa2-be04-4173-8589-2edc72c811a6.item.assigned_to.first_name}}</prescription>
+        <source_ui_id/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:24:02</sys_created_on>
+        <sys_id>b3cf019b83418f90e4b6ad20ceaad367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:24:02</sys_updated_on>
+        <transform_compositions>[]</transform_compositions>
+        <transform_definition_id/>
+        <ui_id>19137590-5a8c-4379-ae99-6ef51189469b</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>7bcf019b83418f90e4b6ad20ceaad33f</attached_to>
+        <extra_info/>
+        <order>0</order>
+        <prescription>{{80430fa2-be04-4173-8589-2edc72c811a6.item.assigned_to.first_name}}</prescription>
+        <source_ui_id/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:31:52</sys_created_on>
+        <sys_id>fa91995f83418f90e4b6ad20ceaad3ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:31:52</sys_updated_on>
+        <transform_compositions>[]</transform_compositions>
+        <transform_definition_id/>
+        <ui_id>2d271c44-da59-4778-bc11-233c34a40cc4</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_flow_variable action="delete_multiple" query="model=7bcf019b83418f90e4b6ad20ceaad33f^sys_idNOT IN9f201d9b83418f90e4b6ad20ceaad31c"/>
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDecd39593e4818f90b87cd9db078dc40b</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>19f1f91683498790e4b6ad20ceaad305</scope_name>
+        <serialized_content>{"FlowDesigner:FDecd39593e4818f90b87cd9db078dc40b":{"$COCollectionField":[{"Object":{}}],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDecd39593e4818f90b87cd9db078dc40b.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"max_rows\":null,\"choiceOption\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"processed_users\",\"mandatory\":\"false\",\"child_name\":\"processed_users_child0\",\"uiUniqueId\":\"e4ccdc24-5fea-4e6c-9268-c16b83e0593f\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDecd39593e4818f90b87cd9db078dc40b\",\"child_label\":\"processed_users_child0\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"82f689a6-17dd-415e-a9d9-78522f9b45ef\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:41:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e0d3959383818f90e4b6ad20ceaad30c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:41:33</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+    <sys_hub_flow_variable action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>child_label=processed_users_child0,child_name=processed_users_child0,child_type=object,child_type_label=Object,child_uiUniqueId=82f689a6-17dd-415e-a9d9-78522f9b45ef,co_type_name=FDecd39593e4818f90b87cd9db078dc40b,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=array.object,uiTypeLabel=Array.Object,uiUniqueId=e4ccdc24-5fea-4e6c-9268-c16b83e0593f</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>processed_users</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>processed_users</label>
+        <mandatory>false</mandatory>
+        <max_length>65000</max_length>
+        <model display_value="Copy of Stale Problem Reminder Flow">7bcf019b83418f90e4b6ad20ceaad33f</model>
+        <model_id>7bcf019b83418f90e4b6ad20ceaad33f</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_variable_7bcf019b83418f90e4b6ad20ceaad33f</name>
+        <next_element/>
+        <order>1</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_variable</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 14:25:38</sys_created_on>
+        <sys_id>9f201d9b83418f90e4b6ad20ceaad31c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 14:41:33</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_variable>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_7bcf019b83418f90e4b6ad20ceaad33f"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_7bcf019b83418f90e4b6ad20ceaad33f"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=7bcf019b83418f90e4b6ad20ceaad33f"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=7bcf019b83418f90e4b6ad20ceaad33f"/>
+</record_update>

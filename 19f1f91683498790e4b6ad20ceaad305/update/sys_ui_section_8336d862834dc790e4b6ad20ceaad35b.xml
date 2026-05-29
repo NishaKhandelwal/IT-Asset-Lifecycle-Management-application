@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Asset Details" section_id="8336d862834dc790e4b6ad20ceaad35b" sys_domain="global" table="x_1920732_it_ass_0_mobile_phone" version="3" view="itam_workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>0736d862834dc790e4b6ad20ceaad369</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>4f36d862834dc790e4b6ad20ceaad365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_category</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>8f36d862834dc790e4b6ad20ceaad367</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>c736d862834dc790e4b6ad20ceaad364</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_tag</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>cb36d862834dc790e4b6ad20ceaad36c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>install_status</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>4b36d862834dc790e4b6ad20ceaad368</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>8336d862834dc790e4b6ad20ceaad365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stockroom</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>0336d862834dc790e4b6ad20ceaad361</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reserved_for</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>0f36d862834dc790e4b6ad20ceaad363</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>managed_by</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>4736d862834dc790e4b6ad20ceaad360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owned_by</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>8736d862834dc790e4b6ad20ceaad362</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>cf36d862834dc790e4b6ad20ceaad35e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>c336d862834dc790e4b6ad20ceaad367</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>install_date</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>4336d862834dc790e4b6ad20ceaad363</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>8b36d862834dc790e4b6ad20ceaad35f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ci</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>0336d862834dc790e4b6ad20ceaad36c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>0736d862834dc790e4b6ad20ceaad35e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serial_number</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>4736d862834dc790e4b6ad20ceaad36b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>substatus</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>8f36d862834dc790e4b6ad20ceaad35c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>4336d862834dc790e4b6ad20ceaad36e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>cb36d862834dc790e4b6ad20ceaad361</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>4b36d862834dc790e4b6ad20ceaad35d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_function</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>8b36d862834dc790e4b6ad20ceaad36a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>0b36d862834dc790e4b6ad20ceaad366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>8736d862834dc790e4b6ad20ceaad36d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_id>cf36d862834dc790e4b6ad20ceaad369</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Asset Details</caption>
+            <header>false</header>
+            <name>x_1920732_it_ass_0_mobile_phone</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8336d862834dc790e4b6ad20ceaad35b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1920732_it_ass_0_mobile_phone</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+            <sys_update_name>sys_ui_section_8336d862834dc790e4b6ad20ceaad35b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="ITAM Workspace" name="itam_workspace">e53c64d153c230108125ddeeff7b12e3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>true</applies_extended>
+        <condition/>
+        <description/>
+        <field>purchase_date</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Old asset warning </name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+
+    if (isLoading || !newValue)
+        return;
+
+    var purchaseDate = new Date(newValue);
+    var today = new Date();
+
+    var years = today.getFullYear() - purchaseDate.getFullYear();
+
+    if (years >= 3) {
+
+        g_form.showFieldMsg(
+            'purchase_date',
+            'This asset is over three years old and may need replacement.',
+            'warning'
+        );
+    }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 12:17:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6392f89f834d4f90e4b6ad20ceaad3d5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Old asset warning </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_update_name>sys_script_client_6392f89f834d4f90e4b6ad20ceaad3d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 12:17:43</sys_updated_on>
+        <table>x_1920732_it_ass_0_it_asset</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

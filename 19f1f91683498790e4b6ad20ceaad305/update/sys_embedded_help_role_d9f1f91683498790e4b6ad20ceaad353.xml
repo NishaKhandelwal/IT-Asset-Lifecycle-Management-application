@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_1920732_it_ass_0.asset manager" name="x_1920732_it_ass_0.asset manager">5df1f91683498790e4b6ad20ceaad34c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-26 14:19:18</sys_created_on>
+        <sys_id>d9f1f91683498790e4b6ad20ceaad353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5df1f91683498790e4b6ad20ceaad34c</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d9f1f91683498790e4b6ad20ceaad353</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-26 14:19:18</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
