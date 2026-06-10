@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="IT asset from excel" language="en" table="x_1920732_it_ass_0_it_asset_from_excel">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>IT asset from excel</label>
+            <language>en</language>
+            <name>x_1920732_it_ass_0_it_asset_from_excel</name>
+            <plural>IT asset from excels</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-10 15:35:44</sys_created_on>
+            <sys_id>97431bcf83510f14e4b6ad20ceaad348</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IT asset from excel</sys_name>
+            <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+            <sys_update_name>sys_documentation_x_1920732_it_ass_0_it_asset_from_excel__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-10 15:35:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

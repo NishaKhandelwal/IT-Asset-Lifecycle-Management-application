@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="open_nlu_driver_language">
+    <open_nlu_driver_language action="INSERT_OR_UPDATE">
+        <code>pt</code>
+        <dialog_acts_supported>false</dialog_acts_supported>
+        <driver display_value="">64c023c17300330021a044764df6a70e</driver>
+        <driver_codes>pt</driver_codes>
+        <language>Portuguese</language>
+        <sys_class_name>open_nlu_driver_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-01 07:01:18</sys_created_on>
+        <sys_id>bf37c784835d07d0e4b6ad20ceaad3f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portuguese</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_update_name>open_nlu_driver_language_bf37c784835d07d0e4b6ad20ceaad3f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-01 07:01:18</sys_updated_on>
+    </open_nlu_driver_language>
+</record_update>

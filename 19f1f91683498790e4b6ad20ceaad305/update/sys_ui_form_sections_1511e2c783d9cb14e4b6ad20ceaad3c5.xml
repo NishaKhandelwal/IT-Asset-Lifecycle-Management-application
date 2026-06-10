@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1511e2c783d9cb14e4b6ad20ceaad3c5" sys_domain="global" table="x_1920732_it_ass_0_asset_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-10 11:56:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d111e2c783d9cb14e4b6ad20ceaad3e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1920732_it_ass_0_asset_task" name="x_1920732_it_ass_0_asset_task" sys_domain="global" view="Default view">1511e2c783d9cb14e4b6ad20ceaad3c5</sys_ui_form>
+            <sys_ui_section caption="Asset task Details" display_value="Asset task Details" name="x_1920732_it_ass_0_asset_task" sys_domain="global" view="Default view">5511e2c783d9cb14e4b6ad20ceaad3c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-10 11:56:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1920732_it_ass_0_asset_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-10 11:56:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1511e2c783d9cb14e4b6ad20ceaad3c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1920732_it_ass_0_asset_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1511e2c783d9cb14e4b6ad20ceaad3c5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-10 11:56:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

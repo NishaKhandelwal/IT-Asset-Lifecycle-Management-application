@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description>IT asset management laptop requirements </description>
+        <display_title>true</display_title>
+        <internal_name>laptop_requirements</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>110</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 09:38:54</sys_created_on>
+        <sys_id>f761828383d5cb14e4b6ad20ceaad333</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Laptop Requirements</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_update_name>item_option_new_set_f761828383d5cb14e4b6ad20ceaad333</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-06-10 09:59:14</sys_updated_on>
+        <title>Laptop Requirements</title>
+        <type>one_to_one</type>
+        <version>4</version>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>
