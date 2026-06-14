@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Financial" section_id="b636d862834dc790e4b6ad20ceaad31a" sys_domain="global" table="x_1920732_it_ass_0_mobile_phone" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>3636d862834dc790e4b6ad20ceaad31e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>invoice_number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>f236d862834dc790e4b6ad20ceaad31c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_line</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>be36d862834dc790e4b6ad20ceaad31c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>3236d862834dc790e4b6ad20ceaad321</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>7636d862834dc790e4b6ad20ceaad320</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_line.opened_at</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>ba36d862834dc790e4b6ad20ceaad31f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gl_account</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>fe36d862834dc790e4b6ad20ceaad31e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost_center</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_id>7a36d862834dc790e4b6ad20ceaad31d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Financial</caption>
+            <header>false</header>
+            <name>x_1920732_it_ass_0_mobile_phone</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b636d862834dc790e4b6ad20ceaad31a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1920732_it_ass_0_mobile_phone</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+            <sys_update_name>sys_ui_section_b636d862834dc790e4b6ad20ceaad31a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</application>
+        <file_path/>
+        <instance_id>ec313b1ceb152e585a2dfceacad0cd4f</instance_id>
+        <instance_name>dev339798</instance_name>
+        <name>sys_ui_section_b636d862834dc790e4b6ad20ceaad31a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Financial" section_id="b636d862834dc790e4b6ad20ceaad31a" sys_domain="global" table="x_1920732_it_ass_0_mobile_phone" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>vendor</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:17:01</sys_created_on><sys_id>3636d862834dc790e4b6ad20ceaad31e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:17:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>invoice_number</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:17:01</sys_created_on><sys_id>f236d862834dc790e4b6ad20ceaad31c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:17:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>request_line</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:17:01</sys_created_on><sys_id>be36d862834dc790e4b6ad20ceaad31c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:17:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cost</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:17:01</sys_created_on><sys_id>3236d862834dc790e4b6ad20ceaad321</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:17:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:17:01</sys_created_on><sys_id>7636d862834dc790e4b6ad20ceaad320</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:17:01</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>request_line.opened_at</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:17:01</sys_created_on><sys_id>ba36d862834dc790e4b6ad20ceaad31f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:17:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>gl_account</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:17:01</sys_created_on><sys_id>fe36d862834dc790e4b6ad20ceaad31e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:17:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cost_center</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:17:01</sys_created_on><sys_id>7a36d862834dc790e4b6ad20ceaad31d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">b636d862834dc790e4b6ad20ceaad31a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:17:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Financial</caption><header>false</header><name>x_1920732_it_ass_0_mobile_phone</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:17:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b636d862834dc790e4b6ad20ceaad31a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1920732_it_ass_0_mobile_phone</sys_name><sys_overrides/><sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package><sys_policy/><sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope><sys_update_name>sys_ui_section_b636d862834dc790e4b6ad20ceaad31a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:17:01</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1801612258</payload_hash>
+        <record_name>Mobile Phone</record_name>
+        <reverted_from/>
+        <source>95f1f91683498790e4b6ad20ceaad340</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+        <sys_id>b236d862834dc790e4b6ad20ceaad325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e673892d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>7636d862184dc790620f1860ef3b2824</update_guid>
+        <update_guid_history>7636d862184dc790620f1860ef3b2824:-1801612258</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-27 02:34:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1d502e1111164f8088e51490e5f0b7f1</sys_id>
+        <sys_metadata>b636d862834dc790e4b6ad20ceaad31a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Financial</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_parent display_value="Mobile Phone">9a369862834dc790e4b6ad20ceaad340</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_scope_delete display_value="">55ecfa90307241cc9cfbee5f3c020679</sys_scope_delete>
+        <sys_update_name>sys_ui_section_b636d862834dc790e4b6ad20ceaad31a</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_b636d862834dc790e4b6ad20ceaad31a">b236d862834dc790e4b6ad20ceaad325</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-27 02:34:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

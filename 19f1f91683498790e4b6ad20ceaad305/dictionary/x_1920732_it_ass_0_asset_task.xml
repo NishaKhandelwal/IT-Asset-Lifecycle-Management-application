@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="85b0b1cf8315cb14e4b6ad20ceaad31e" extends="task" label="Asset Task" max_length="40" name="x_1920732_it_ass_0_asset_task" type="collection">
+        <element label="Asset" max_length="32" name="asset" reference="x_1920732_it_ass_0_it_asset" reference_qual="answer = &quot;status=Available&quot;;" reference_qual_condition="answer = &quot;status=Available&quot;;" type="reference"/>
+        <element label="Requested item" max_length="32" name="requested_item" reference="sc_req_item" type="reference"/>
+        <element choice="3" label="Asset type" max_length="40" name="asset_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Mobile phone" sequence="2" value="mobilephone"/>
+                <element inactive_on_update="false" label="Desktop" sequence="1" value="desktop"/>
+                <element inactive_on_update="false" label="Laptop" sequence="0" value="laptop"/>
+            </choice>
+        </element>
+        <element label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element label="Notify When Repaired" max_length="255" name="notify_when_repaired" type="boolean"/>
+        <element choice="3" label="Task Type" max_length="40" name="task_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Audit" sequence="4" value="audit"/>
+                <element inactive_on_update="false" label="Return" sequence="1" value="return"/>
+                <element inactive_on_update="false" label="Transfer" sequence="6" value="transfer"/>
+                <element inactive_on_update="false" label="Maintenance" sequence="3" value="maintenance"/>
+                <element inactive_on_update="false" label="Retirement" sequence="5" value="retirement"/>
+                <element inactive_on_update="false" label="Allocation" sequence="0" value="allocation"/>
+                <element inactive_on_update="false" label="Repair" sequence="2" value="repair"/>
+            </choice>
+        </element>
+        <element label="Issue Description" max_length="40" name="issue_description" type="string"/>
+        <element choice="3" label="Issue Type" max_length="40" name="issue_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Software" sequence="1" value="software"/>
+                <element inactive_on_update="false" label="Hardware" sequence="0" value="hardware"/>
+                <element inactive_on_update="false" label="Performance" sequence="4" value="performance"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
+                <element inactive_on_update="false" label="Network" sequence="2" value="network"/>
+            </choice>
+        </element>
+        <element choice="1" label="Replacement Preference" max_length="255" name="replacement_preference" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Wait" sequence="0" value="wait"/>
+                <element inactive_on_update="false" label="Replacement needed" sequence="1" value="replacement"/>
+            </choice>
+        </element>
+    </element>
+</database>

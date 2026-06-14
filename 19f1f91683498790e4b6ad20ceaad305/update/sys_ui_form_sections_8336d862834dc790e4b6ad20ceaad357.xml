@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="8336d862834dc790e4b6ad20ceaad357" sys_domain="global" table="x_1920732_it_ass_0_mobile_phone" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4736d862834dc790e4b6ad20ceaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1920732_it_ass_0_mobile_phone" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad357</sys_ui_form>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad35b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8336d862834dc790e4b6ad20ceaad382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1920732_it_ass_0_mobile_phone" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad357</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">0f36d862834dc790e4b6ad20ceaad375</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4736d862834dc790e4b6ad20ceaad3a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1920732_it_ass_0_mobile_phone" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad357</sys_ui_form>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">c336d862834dc790e4b6ad20ceaad39a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f36d862834dc790e4b6ad20ceaad3b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1920732_it_ass_0_mobile_phone" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad357</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">0f36d862834dc790e4b6ad20ceaad3a3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f36d862834dc790e4b6ad20ceaad399</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1920732_it_ass_0_mobile_phone" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8336d862834dc790e4b6ad20ceaad357</sys_ui_form>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">4b36d862834dc790e4b6ad20ceaad382</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1920732_it_ass_0_mobile_phone</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:17:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8336d862834dc790e4b6ad20ceaad357</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1920732_it_ass_0_mobile_phone</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8336d862834dc790e4b6ad20ceaad357</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:17:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="ITAM Workspace" name="itam_workspace">e53c64d153c230108125ddeeff7b12e3</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

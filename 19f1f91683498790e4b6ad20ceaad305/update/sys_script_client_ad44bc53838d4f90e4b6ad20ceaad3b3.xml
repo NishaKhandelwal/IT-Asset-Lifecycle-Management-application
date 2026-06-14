@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>true</applies_extended>
+        <condition/>
+        <description/>
+        <field>manufacturer</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Cascading Dropdown for Model Selection</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+
+    if (isLoading)
+        return;
+
+    g_form.clearOptions('mode0');
+
+    g_form.addOption(
+        'mode0',
+        '',
+        '-- None --'
+    );
+
+    if (newValue == 'dell') {
+
+        g_form.addOption('mode0', 'Latitude', 'Latitude');
+        g_form.addOption('mode0', 'Inspiron', 'Inspiron');
+        g_form.addOption('mode0', 'XPS', 'XPS');
+    }
+
+    else if (newValue == 'hp') {
+
+        g_form.addOption('mode0', 'Pavilion', 'Pavilion');
+        g_form.addOption('mode0', 'EliteBook', 'EliteBook');
+        g_form.addOption('mode0', 'Victus', 'Victus');
+    }
+
+    else if (newValue == 'apple') {
+
+        g_form.addOption('mode0', 'MacBook Air', 'MacBook Air');
+        g_form.addOption('mode0', 'MacBook Pro', 'MacBook Pro');
+        g_form.addOption('mode0', 'iMac', 'iMac');
+    }
+
+    else if (newValue == 'lenovo') {
+
+        g_form.addOption('mode0', 'ThinkPad', 'ThinkPad');
+        g_form.addOption('mode0', 'IdeaPad', 'IdeaPad');
+        g_form.addOption('mode0', 'Legion', 'Legion');
+    }
+
+    else if (newValue == 'asus') {
+
+        g_form.addOption('mode0', 'VivoBook', 'VivoBook');
+        g_form.addOption('mode0', 'ZenBook', 'ZenBook');
+        g_form.addOption('mode0', 'ROG', 'ROG');
+    }
+
+    else if (newValue == 'acer') {
+
+        g_form.addOption('mode0', 'Aspire', 'Aspire');
+        g_form.addOption('mode0', 'Nitro', 'Nitro');
+        g_form.addOption('mode0', 'Predator', 'Predator');
+    }
+
+    else if (newValue == 'microsoft') {
+
+        g_form.addOption('mode0', 'Surface Laptop', 'Surface Laptop');
+        g_form.addOption('mode0', 'Surface Pro', 'Surface Pro');
+        g_form.addOption('mode0', 'Surface Book', 'Surface Book');
+    }
+
+    else if (newValue == 'samsung') {
+
+        g_form.addOption('mode0', 'Galaxy Book4', 'Galaxy Book4');
+        g_form.addOption('mode0', 'Galaxy Book Pro', 'Galaxy Book Pro');
+        g_form.addOption('mode0', 'Galaxy Book Ultra', 'Galaxy Book Ultra');
+    }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 12:27:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ad44bc53838d4f90e4b6ad20ceaad3b3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Cascading Dropdown for Model Selection</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_update_name>sys_script_client_ad44bc53838d4f90e4b6ad20ceaad3b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 16:04:08</sys_updated_on>
+        <table>x_1920732_it_ass_0_it_asset</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

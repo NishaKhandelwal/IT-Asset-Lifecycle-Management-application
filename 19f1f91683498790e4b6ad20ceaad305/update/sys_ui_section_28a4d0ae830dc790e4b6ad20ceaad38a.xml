@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Asset Details" section_id="28a4d0ae830dc790e4b6ad20ceaad38a" sys_domain="global" table="x_1920732_it_ass_0_desktop" version="3" view="itam_workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>a8a4d0ae830dc790e4b6ad20ceaad398</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>e0a4d0ae830dc790e4b6ad20ceaad395</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_category</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>24a4d0ae830dc790e4b6ad20ceaad397</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>6ca4d0ae830dc790e4b6ad20ceaad393</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_tag</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>60a4d0ae830dc790e4b6ad20ceaad39c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>install_status</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>eca4d0ae830dc790e4b6ad20ceaad397</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>28a4d0ae830dc790e4b6ad20ceaad394</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stockroom</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>a4a4d0ae830dc790e4b6ad20ceaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reserved_for</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>a0a4d0ae830dc790e4b6ad20ceaad393</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>managed_by</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>e8a4d0ae830dc790e4b6ad20ceaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owned_by</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>2ca4d0ae830dc790e4b6ad20ceaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>64a4d0ae830dc790e4b6ad20ceaad38e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>68a4d0ae830dc790e4b6ad20ceaad396</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>install_date</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>e4a4d0ae830dc790e4b6ad20ceaad392</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>20a4d0ae830dc790e4b6ad20ceaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ci</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>a4a4d0ae830dc790e4b6ad20ceaad39b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>a8a4d0ae830dc790e4b6ad20ceaad38d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serial_number</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>e8a4d0ae830dc790e4b6ad20ceaad39a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>substatus</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>24a4d0ae830dc790e4b6ad20ceaad38c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>e4a4d0ae830dc790e4b6ad20ceaad39d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>60a4d0ae830dc790e4b6ad20ceaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>eca4d0ae830dc790e4b6ad20ceaad38c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_function</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>20a4d0ae830dc790e4b6ad20ceaad39a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>aca4d0ae830dc790e4b6ad20ceaad395</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>2ca4d0ae830dc790e4b6ad20ceaad39c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>64a4d0ae830dc790e4b6ad20ceaad399</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">28a4d0ae830dc790e4b6ad20ceaad38a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Asset Details</caption>
+            <header>false</header>
+            <name>x_1920732_it_ass_0_desktop</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28a4d0ae830dc790e4b6ad20ceaad38a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1920732_it_ass_0_desktop</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+            <sys_update_name>sys_ui_section_28a4d0ae830dc790e4b6ad20ceaad38a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="ITAM Workspace" name="itam_workspace">e53c64d153c230108125ddeeff7b12e3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

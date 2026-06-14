@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="replacement_preference" table="x_1920732_it_ass_0_asset_task" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>replacement_preference</element>
+            <name>x_1920732_it_ass_0_asset_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-14 12:56:38</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>replacement_preference</sys_name>
+            <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+            <sys_update_name>sys_choice_x_1920732_it_ass_0_asset_task_replacement_preference</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-14 12:56:38</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>replacement_preference</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wait</label>
+            <language>en</language>
+            <name>x_1920732_it_ass_0_asset_task</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-14 12:56:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-14 12:56:38</sys_updated_on>
+            <value>wait</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>replacement_preference</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Replacement needed</label>
+            <language>en</language>
+            <name>x_1920732_it_ass_0_asset_task</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-14 12:56:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-14 12:56:38</sys_updated_on>
+            <value>replacement</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

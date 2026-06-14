@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Asset task" section_id="59e0b9cf8315cb14e4b6ad20ceaad3db" sys_domain="global" table="x_1920732_it_ass_0_asset_task" version="3" view="IT_Asset_task">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-10 11:43:40</sys_created_on>
+            <sys_id>c03e164383d9cb14e4b6ad20ceaad381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset task" display_value="Asset task" name="x_1920732_it_ass_0_asset_task" sys_domain="global" view="59e0b9cf8315cb14e4b6ad20ceaad34a">59e0b9cf8315cb14e4b6ad20ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-10 11:43:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-10 11:43:40</sys_created_on>
+            <sys_id>883e164383d9cb14e4b6ad20ceaad382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset task" display_value="Asset task" name="x_1920732_it_ass_0_asset_task" sys_domain="global" view="59e0b9cf8315cb14e4b6ad20ceaad34a">59e0b9cf8315cb14e4b6ad20ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-10 11:43:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_item</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-10 11:43:40</sys_created_on>
+            <sys_id>083e164383d9cb14e4b6ad20ceaad383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset task" display_value="Asset task" name="x_1920732_it_ass_0_asset_task" sys_domain="global" view="59e0b9cf8315cb14e4b6ad20ceaad34a">59e0b9cf8315cb14e4b6ad20ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-10 11:43:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-10 11:43:40</sys_created_on>
+            <sys_id>843e164383d9cb14e4b6ad20ceaad384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset task" display_value="Asset task" name="x_1920732_it_ass_0_asset_task" sys_domain="global" view="59e0b9cf8315cb14e4b6ad20ceaad34a">59e0b9cf8315cb14e4b6ad20ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-10 11:43:40</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task_type</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-10 11:43:40</sys_created_on>
+            <sys_id>043e164383d9cb14e4b6ad20ceaad385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset task" display_value="Asset task" name="x_1920732_it_ass_0_asset_task" sys_domain="global" view="59e0b9cf8315cb14e4b6ad20ceaad34a">59e0b9cf8315cb14e4b6ad20ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-10 11:43:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-10 11:43:40</sys_created_on>
+            <sys_id>803e164383d9cb14e4b6ad20ceaad386</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset task" display_value="Asset task" name="x_1920732_it_ass_0_asset_task" sys_domain="global" view="59e0b9cf8315cb14e4b6ad20ceaad34a">59e0b9cf8315cb14e4b6ad20ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-10 11:43:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-10 11:43:40</sys_created_on>
+            <sys_id>003e164383d9cb14e4b6ad20ceaad387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset task" display_value="Asset task" name="x_1920732_it_ass_0_asset_task" sys_domain="global" view="59e0b9cf8315cb14e4b6ad20ceaad34a">59e0b9cf8315cb14e4b6ad20ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-10 11:43:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Asset task</caption>
+            <header>false</header>
+            <name>x_1920732_it_ass_0_asset_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-10 08:25:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59e0b9cf8315cb14e4b6ad20ceaad3db</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1920732_it_ass_0_asset_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+            <sys_update_name>sys_ui_section_59e0b9cf8315cb14e4b6ad20ceaad3db</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-10 08:29:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="IT Asset task" name="IT_Asset_task">59e0b9cf8315cb14e4b6ad20ceaad34a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

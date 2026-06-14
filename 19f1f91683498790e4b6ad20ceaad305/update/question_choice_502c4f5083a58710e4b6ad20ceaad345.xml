@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Do you require a temporary replacement asset while your device is being repaired?">89bb8f1083a58710e4b6ad20ceaad3fb</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-14 12:17:21</sys_created_on>
+        <sys_id>502c4f5083a58710e4b6ad20ceaad345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>I can wait until my asset is repaired</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_update_name>question_choice_502c4f5083a58710e4b6ad20ceaad345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-14 12:17:21</sys_updated_on>
+        <text>I can wait until my asset is repaired</text>
+        <value>wait</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=502c4f5083a58710e4b6ad20ceaad345"/>
+</record_update>

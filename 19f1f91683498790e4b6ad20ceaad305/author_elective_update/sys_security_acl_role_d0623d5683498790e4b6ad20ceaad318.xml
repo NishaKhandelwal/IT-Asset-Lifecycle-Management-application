@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-26 14:21:08</sys_created_on>
+        <sys_id>d0623d5683498790e4b6ad20ceaad318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1920732_it_ass_0_it_asset.x_1920732_it_ass_0.asset manager</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_security_acl display_value="x_1920732_it_ass_0_it_asset">dc62f95683498790e4b6ad20ceaad3ed</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d0623d5683498790e4b6ad20ceaad318</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-26 14:21:08</sys_updated_on>
+        <sys_user_role display_value="x_1920732_it_ass_0.asset manager" name="x_1920732_it_ass_0.asset manager">5df1f91683498790e4b6ad20ceaad34c</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</application>
+        <file_path/>
+        <instance_id>ec313b1ceb152e585a2dfceacad0cd4f</instance_id>
+        <instance_name>dev339798</instance_name>
+        <name>sys_security_acl_role_d0623d5683498790e4b6ad20ceaad318</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-26 14:21:08</sys_created_on><sys_id>d0623d5683498790e4b6ad20ceaad318</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1920732_it_ass_0_it_asset.x_1920732_it_ass_0.asset manager</sys_name><sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package><sys_policy/><sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope><sys_security_acl display_value="x_1920732_it_ass_0_it_asset">dc62f95683498790e4b6ad20ceaad3ed</sys_security_acl><sys_update_name>sys_security_acl_role_d0623d5683498790e4b6ad20ceaad318</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-26 14:21:08</sys_updated_on><sys_user_role display_value="x_1920732_it_ass_0.asset manager" name="x_1920732_it_ass_0.asset manager">5df1f91683498790e4b6ad20ceaad34c</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1371501575</payload_hash>
+        <record_name>x_1920732_it_ass_0_it_asset.x_1920732_it_ass_0.asset manager</record_name>
+        <reverted_from/>
+        <source>95f1f91683498790e4b6ad20ceaad340</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-26 14:21:08</sys_created_on>
+        <sys_id>90623d5683498790e4b6ad20ceaad31d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e64a92b000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-26 14:21:08</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>50623d56d1498790c99ca250e514791c</update_guid>
+        <update_guid_history>50623d56d1498790c99ca250e514791c:-1371501575</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1920732_it_ass_0_it_asset.x_1920732_it_ass_0.asset manager">e5c3b15a83498790e4b6ad20ceaad33f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-26 14:27:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>259a692379e64db68bef329f6f570511</sys_id>
+        <sys_metadata>d0623d5683498790e4b6ad20ceaad318</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1920732_it_ass_0_it_asset.x_1920732_it_ass_0.asset manager</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_parent display_value="">dc62f95683498790e4b6ad20ceaad3ed</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_scope_delete display_value="">55ecfa90307241cc9cfbee5f3c020679</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_d0623d5683498790e4b6ad20ceaad318</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_d0623d5683498790e4b6ad20ceaad318">90623d5683498790e4b6ad20ceaad31d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-26 14:27:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

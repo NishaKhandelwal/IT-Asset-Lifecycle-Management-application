@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fdf3b95a83498790e4b6ad20ceaad331" extends="alm_asset" label="IT Asset" max_length="40" name="x_1920732_it_ass_0_it_asset" type="collection">
+        <element choice="3" label="Model" max_length="40" name="mode0" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Any" sequence="0" value="any"/>
+            </choice>
+        </element>
+        <element label="Requested For" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Requested Item" max_length="32" name="requested_item" reference="sc_req_item" type="reference"/>
+        <element choice="1" label="Inventory Status" max_length="40" name="inventory_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Waiting for Inventory" sequence="1" value="waiting_for_inventory"/>
+                <element inactive_on_update="false" label="Available" sequence="0" value="available"/>
+            </choice>
+        </element>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending Allocation" sequence="4" value="pending_allocation"/>
+                <element inactive_on_update="false" label="In Use" sequence="1" value="in_use"/>
+                <element inactive_on_update="false" label="In Repair" sequence="2" value="in_repair"/>
+                <element inactive_on_update="false" label="Retired" sequence="3" value="retired"/>
+                <element inactive_on_update="false" label="Available" sequence="0" value="available"/>
+                <element inactive_on_update="false" label="Reserved" sequence="5" value="reserved"/>
+            </choice>
+        </element>
+        <element choice="3" label="Asset Type" max_length="40" name="asset_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Mobile Phone" sequence="2" value="mobile_phone"/>
+                <element inactive_on_update="false" label="Desktop" sequence="0" value="desktop"/>
+                <element inactive_on_update="false" label="Laptop" sequence="1" value="laptop"/>
+            </choice>
+        </element>
+        <element label="Next Maintenance Date" max_length="40" name="next_maintenance_date" type="glide_date"/>
+        <element choice="3" label="Warranty Status" max_length="40" name="warranty_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Expiring Soon" sequence="1" value="expiring_soon"/>
+                <element inactive_on_update="false" label="Under Warranty" sequence="0" value="under_warranty"/>
+                <element inactive_on_update="false" label="Expired" sequence="2" value="expired"/>
+            </choice>
+        </element>
+        <element choice="3" label="Manufacturer" max_length="40" name="manufacturer" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Samsung" sequence="3" value="samsung"/>
+                <element inactive_on_update="false" label="Apple" sequence="4" value="apple"/>
+                <element inactive_on_update="false" label="Dell" sequence="0" value="dell"/>
+                <element inactive_on_update="false" label="Lenovo" sequence="1" value="lenovo"/>
+                <element inactive_on_update="false" label="HP" sequence="2" value="hp"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="requested_for"/>
+        </index>
+        <index name="index2">
+            <element name="requested_item"/>
+        </index>
+    </element>
+</database>

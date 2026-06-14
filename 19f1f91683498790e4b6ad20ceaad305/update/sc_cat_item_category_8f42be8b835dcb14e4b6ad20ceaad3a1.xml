@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Return Asset">c200ba87835dcb14e4b6ad20ceaad390</sc_cat_item>
+        <sc_category display_value="Hardware Requests">d244f9c78355cb14e4b6ad20ceaad39b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 13:11:32</sys_created_on>
+        <sys_id>8f42be8b835dcb14e4b6ad20ceaad3a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware Requests.Return Asset</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_update_name>sc_cat_item_category_8f42be8b835dcb14e4b6ad20ceaad3a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 13:11:32</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
