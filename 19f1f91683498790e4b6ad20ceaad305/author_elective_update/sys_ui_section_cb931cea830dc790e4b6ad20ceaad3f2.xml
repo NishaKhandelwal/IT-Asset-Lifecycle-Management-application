@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Financial" section_id="cb931cea830dc790e4b6ad20ceaad3f2" sys_domain="global" table="x_1920732_it_ass_0_laptop" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:05:33</sys_created_on>
+            <sys_id>c3935cea830dc790e4b6ad20ceaad30f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:05:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>invoice_number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:05:33</sys_created_on>
+            <sys_id>83935cea830dc790e4b6ad20ceaad30d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:05:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_line</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:05:33</sys_created_on>
+            <sys_id>4f935cea830dc790e4b6ad20ceaad30d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:05:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:05:33</sys_created_on>
+            <sys_id>cf935cea830dc790e4b6ad20ceaad311</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:05:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:05:33</sys_created_on>
+            <sys_id>07935cea830dc790e4b6ad20ceaad311</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:05:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_line.opened_at</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:05:33</sys_created_on>
+            <sys_id>4b935cea830dc790e4b6ad20ceaad310</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:05:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gl_account</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:05:33</sys_created_on>
+            <sys_id>8f935cea830dc790e4b6ad20ceaad30f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:05:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost_center</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:05:33</sys_created_on>
+            <sys_id>0b935cea830dc790e4b6ad20ceaad30e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:05:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Financial</caption>
+            <header>false</header>
+            <name>x_1920732_it_ass_0_laptop</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:05:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb931cea830dc790e4b6ad20ceaad3f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1920732_it_ass_0_laptop</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+            <sys_update_name>sys_ui_section_cb931cea830dc790e4b6ad20ceaad3f2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:05:33</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</application>
+        <file_path/>
+        <instance_id>ec313b1ceb152e585a2dfceacad0cd4f</instance_id>
+        <instance_name>dev339798</instance_name>
+        <name>sys_ui_section_cb931cea830dc790e4b6ad20ceaad3f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Financial" section_id="cb931cea830dc790e4b6ad20ceaad3f2" sys_domain="global" table="x_1920732_it_ass_0_laptop" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>vendor</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:05:33</sys_created_on><sys_id>c3935cea830dc790e4b6ad20ceaad30f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:05:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>invoice_number</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:05:33</sys_created_on><sys_id>83935cea830dc790e4b6ad20ceaad30d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:05:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>request_line</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:05:33</sys_created_on><sys_id>4f935cea830dc790e4b6ad20ceaad30d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:05:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cost</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:05:33</sys_created_on><sys_id>cf935cea830dc790e4b6ad20ceaad311</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:05:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:05:33</sys_created_on><sys_id>07935cea830dc790e4b6ad20ceaad311</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:05:33</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>request_line.opened_at</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:05:33</sys_created_on><sys_id>4b935cea830dc790e4b6ad20ceaad310</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:05:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>gl_account</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:05:33</sys_created_on><sys_id>8f935cea830dc790e4b6ad20ceaad30f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:05:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cost_center</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:05:33</sys_created_on><sys_id>0b935cea830dc790e4b6ad20ceaad30e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Financial" display_value="Financial" name="x_1920732_it_ass_0_laptop" sys_domain="global" view="Default view">cb931cea830dc790e4b6ad20ceaad3f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:05:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Financial</caption><header>false</header><name>x_1920732_it_ass_0_laptop</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:05:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cb931cea830dc790e4b6ad20ceaad3f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1920732_it_ass_0_laptop</sys_name><sys_overrides/><sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package><sys_policy/><sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope><sys_update_name>sys_ui_section_cb931cea830dc790e4b6ad20ceaad3f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:05:33</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>561666791</payload_hash>
+        <record_name>Laptop</record_name>
+        <reverted_from/>
+        <source>95f1f91683498790e4b6ad20ceaad340</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-27 02:05:33</sys_created_on>
+        <sys_id>43935cea830dc790e4b6ad20ceaad316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e672e14ee0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-27 02:05:33</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>07935cea010dc7904c614b4fbc3ba015</update_guid>
+        <update_guid_history>07935cea010dc7904c614b4fbc3ba015:561666791</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-27 02:25:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>2779f3e3662d438ca430582db483bde4</sys_id>
+        <sys_metadata>cb931cea830dc790e4b6ad20ceaad3f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Financial</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_parent display_value="Laptop">7483d4ea830dc790e4b6ad20ceaad329</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_scope_delete display_value="">55ecfa90307241cc9cfbee5f3c020679</sys_scope_delete>
+        <sys_update_name>sys_ui_section_cb931cea830dc790e4b6ad20ceaad3f2</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_cb931cea830dc790e4b6ad20ceaad3f2">43935cea830dc790e4b6ad20ceaad316</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-27 02:25:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

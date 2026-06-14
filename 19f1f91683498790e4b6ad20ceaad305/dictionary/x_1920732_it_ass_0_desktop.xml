@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a39490ae830dc790e4b6ad20ceaad309" extends="x_1920732_it_ass_0_it_asset" label="Desktop" max_length="40" name="x_1920732_it_ass_0_desktop" type="collection">
+        <element choice="3" label="RAM" max_length="40" name="ram" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="8GB" sequence="0" value="32"/>
+                <element inactive_on_update="false" label="32GB" sequence="2" value="8"/>
+                <element inactive_on_update="false" label="16GB" sequence="1" value="16"/>
+            </choice>
+        </element>
+        <element choice="3" label="Processor Type" max_length="40" name="processor_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Intel i7" sequence="3" value="intel_i7"/>
+                <element inactive_on_update="false" label="AMD Ryzen 5" sequence="0" value="amd_ryzen_5"/>
+                <element inactive_on_update="false" label="Intel i5" sequence="2" value="intel_i5"/>
+                <element inactive_on_update="false" label="AMD Ryzen 7" sequence="1" value="amd_ryzen_7"/>
+            </choice>
+        </element>
+        <element label="Monitor Included" max_length="40" name="monitor_included" type="boolean"/>
+    </element>
+</database>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7483d4ea830dc790e4b6ad20ceaad329" extends="x_1920732_it_ass_0_it_asset" label="Laptop" max_length="40" name="x_1920732_it_ass_0_laptop" type="collection">
+        <element choice="3" label="Processor Type" max_length="40" name="processor_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Intel i7" sequence="1" value="intel_i7"/>
+                <element inactive_on_update="false" label="AMD Ryzen 7" sequence="3" value="amd_ryzen_7"/>
+                <element inactive_on_update="false" label="Intel i5" sequence="0" value="intel_i5"/>
+                <element inactive_on_update="false" label="AMD Ryzen 5" sequence="2" value="amd_ryzen_5"/>
+            </choice>
+        </element>
+        <element choice="3" label="HDD Size" max_length="40" name="hdd_size" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1 TB" sequence="2" value="1"/>
+                <element inactive_on_update="false" label="512 GB" sequence="1" value="512"/>
+                <element inactive_on_update="false" label="256 GB" sequence="0" value="256"/>
+            </choice>
+        </element>
+        <element choice="3" label="RAM" max_length="40" name="ram" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="8GB" sequence="0" value="8"/>
+                <element inactive_on_update="false" label="32GB" sequence="2" value="32"/>
+                <element inactive_on_update="false" label="16GB" sequence="1" value="16"/>
+            </choice>
+        </element>
+    </element>
+</database>

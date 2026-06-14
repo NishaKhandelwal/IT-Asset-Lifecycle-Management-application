@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Activities" section_id="eca4d0ae830dc790e4b6ad20ceaad33b" sys_domain="global" table="x_1920732_it_ass_0_desktop" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>64a4d0ae830dc790e4b6ad20ceaad357</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">eca4d0ae830dc790e4b6ad20ceaad33b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_id>a8a4d0ae830dc790e4b6ad20ceaad356</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">eca4d0ae830dc790e4b6ad20ceaad33b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Activities</caption>
+            <header>false</header>
+            <name>x_1920732_it_ass_0_desktop</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eca4d0ae830dc790e4b6ad20ceaad33b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1920732_it_ass_0_desktop</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+            <sys_update_name>sys_ui_section_eca4d0ae830dc790e4b6ad20ceaad33b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</application>
+        <file_path/>
+        <instance_id>ec313b1ceb152e585a2dfceacad0cd4f</instance_id>
+        <instance_name>dev339798</instance_name>
+        <name>sys_ui_section_eca4d0ae830dc790e4b6ad20ceaad33b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Activities" section_id="eca4d0ae830dc790e4b6ad20ceaad33b" sys_domain="global" table="x_1920732_it_ass_0_desktop" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:10:02</sys_created_on><sys_id>64a4d0ae830dc790e4b6ad20ceaad357</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Activities" display_value="Activities" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">eca4d0ae830dc790e4b6ad20ceaad33b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:10:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:10:02</sys_created_on><sys_id>a8a4d0ae830dc790e4b6ad20ceaad356</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="Activities" display_value="Activities" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">eca4d0ae830dc790e4b6ad20ceaad33b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:10:02</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Activities</caption><header>false</header><name>x_1920732_it_ass_0_desktop</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:10:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>eca4d0ae830dc790e4b6ad20ceaad33b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1920732_it_ass_0_desktop</sys_name><sys_overrides/><sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package><sys_policy/><sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope><sys_update_name>sys_ui_section_eca4d0ae830dc790e4b6ad20ceaad33b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:10:02</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>277907854</payload_hash>
+        <record_name>Desktop</record_name>
+        <reverted_from/>
+        <source>95f1f91683498790e4b6ad20ceaad340</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-27 02:10:02</sys_created_on>
+        <sys_id>aca4d0ae830dc790e4b6ad20ceaad35a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e67322dd80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-27 02:10:02</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>60a4d0ae000dc79045da17c2fc6b6b5a</update_guid>
+        <update_guid_history>60a4d0ae000dc79045da17c2fc6b6b5a:277907854</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-27 02:30:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>52142c1a916644dd9bc4918c7d45a569</sys_id>
+        <sys_metadata>eca4d0ae830dc790e4b6ad20ceaad33b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activities</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_parent display_value="Desktop">a39490ae830dc790e4b6ad20ceaad309</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_scope_delete display_value="">55ecfa90307241cc9cfbee5f3c020679</sys_scope_delete>
+        <sys_update_name>sys_ui_section_eca4d0ae830dc790e4b6ad20ceaad33b</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_eca4d0ae830dc790e4b6ad20ceaad33b">aca4d0ae830dc790e4b6ad20ceaad35a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-27 02:30:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

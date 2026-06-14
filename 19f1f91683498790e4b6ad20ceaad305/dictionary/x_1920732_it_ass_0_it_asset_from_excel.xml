@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9f43d7cf83510f14e4b6ad20ceaad3dc" extends="sys_import_set_row" label="IT asset from excel" max_length="40" name="x_1920732_it_ass_0_it_asset_from_excel" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned To" label="Assigned To" max_length="40" name="u_assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Asset Tag" label="Asset Tag" max_length="40" name="u_asset_tag" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Asset Type" label="Asset Type" max_length="40" name="u_asset_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Model" label="Model" max_length="40" name="u_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="string"/>
+    </element>
+</database>

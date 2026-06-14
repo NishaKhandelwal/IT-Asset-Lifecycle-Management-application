@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9a369862834dc790e4b6ad20ceaad340" extends="x_1920732_it_ass_0_it_asset" label="Mobile Phone" max_length="40" name="x_1920732_it_ass_0_mobile_phone" type="collection">
+        <element choice="3" label="OS Version" max_length="40" name="os_version" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Android 13" sequence="1" value="android_13"/>
+                <element inactive_on_update="false" label="Android 12" sequence="0" value="android_12"/>
+                <element inactive_on_update="false" label="iOS 17" sequence="5" value="ios_17"/>
+                <element inactive_on_update="false" label="iOS 16" sequence="4" value="ios_16"/>
+                <element inactive_on_update="false" label="Other" sequence="7" value="other"/>
+                <element inactive_on_update="false" label="Android 15" sequence="3" value="android_15"/>
+                <element inactive_on_update="false" label="iOS 18" sequence="6" value="ios_18"/>
+                <element inactive_on_update="false" label="Android 14" sequence="2" value="android_14"/>
+            </choice>
+        </element>
+        <element choice="3" label="Carrier" max_length="40" name="carrier" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Verizon" sequence="0" value="verizon"/>
+                <element inactive_on_update="false" label="AT&amp;T" sequence="1" value="at_t"/>
+            </choice>
+        </element>
+    </element>
+</database>

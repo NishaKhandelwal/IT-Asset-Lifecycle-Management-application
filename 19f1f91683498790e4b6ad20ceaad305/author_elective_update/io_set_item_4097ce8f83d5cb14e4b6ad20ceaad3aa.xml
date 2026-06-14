@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>110</order>
+        <sc_cat_item display_value="Copy of Request Laptop">b7878e8f83d5cb14e4b6ad20ceaad394</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 10:04:50</sys_created_on>
+        <sys_id>4097ce8f83d5cb14e4b6ad20ceaad3aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptop Requirements.Copy of Request Laptop</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_update_name>io_set_item_4097ce8f83d5cb14e4b6ad20ceaad3aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 10:04:50</sys_updated_on>
+        <variable_set display_value="Laptop Requirements">f761828383d5cb14e4b6ad20ceaad333</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</application>
+        <file_path/>
+        <instance_id>ec313b1ceb152e585a2dfceacad0cd4f</instance_id>
+        <instance_name>dev339798</instance_name>
+        <name>io_set_item_4097ce8f83d5cb14e4b6ad20ceaad3aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>110</order><sc_cat_item display_value="Copy of Request Laptop">b7878e8f83d5cb14e4b6ad20ceaad394</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-10 10:04:50</sys_created_on><sys_id>4097ce8f83d5cb14e4b6ad20ceaad3aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Laptop Requirements.Copy of Request Laptop</sys_name><sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package><sys_policy/><sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope><sys_update_name>io_set_item_4097ce8f83d5cb14e4b6ad20ceaad3aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-10 10:04:50</sys_updated_on><variable_set display_value="Laptop Requirements">f761828383d5cb14e4b6ad20ceaad333</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>478899215</payload_hash>
+        <record_name>Laptop Requirements.Copy of Request Laptop</record_name>
+        <reverted_from/>
+        <source>95f1f91683498790e4b6ad20ceaad340</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 10:04:50</sys_created_on>
+        <sys_id>0097ce8f83d5cb14e4b6ad20ceaad3c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19eb0fde7bc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 10:04:50</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>cc97ce8f34d5cb1459daac7b316846c3</update_guid>
+        <update_guid_history>cc97ce8f34d5cb1459daac7b316846c3:478899215</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Laptop Requirements.Copy of Request Laptop">c9c7860f83d5cb14e4b6ad20ceaad3ca</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 10:05:43</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>00baa543b37847188b6345d1d8e04e40</sys_id>
+        <sys_metadata>4097ce8f83d5cb14e4b6ad20ceaad3aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptop Requirements.Copy of Request Laptop</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_scope_delete display_value="">55ecfa90307241cc9cfbee5f3c020679</sys_scope_delete>
+        <sys_update_name>io_set_item_4097ce8f83d5cb14e4b6ad20ceaad3aa</sys_update_name>
+        <sys_update_version display_value="io_set_item_4097ce8f83d5cb14e4b6ad20ceaad3aa">0097ce8f83d5cb14e4b6ad20ceaad3c5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 10:05:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

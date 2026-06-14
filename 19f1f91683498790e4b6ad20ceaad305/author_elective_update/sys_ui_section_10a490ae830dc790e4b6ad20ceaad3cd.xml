@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Contracts" section_id="10a490ae830dc790e4b6ad20ceaad3cd" sys_domain="global" table="x_1920732_it_ass_0_desktop" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:01</sys_created_on>
+            <sys_id>9ca490ae830dc790e4b6ad20ceaad3d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:01</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lease_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:01</sys_created_on>
+            <sys_id>dca490ae830dc790e4b6ad20ceaad3d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>warranty_expiration</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:01</sys_created_on>
+            <sys_id>d0a490ae830dc790e4b6ad20ceaad3d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:01</sys_created_on>
+            <sys_id>98a490ae830dc790e4b6ad20ceaad3d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:01</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>support_group</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:01</sys_created_on>
+            <sys_id>5ca490ae830dc790e4b6ad20ceaad3ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>supported_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:01</sys_created_on>
+            <sys_id>14a490ae830dc790e4b6ad20ceaad3d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:01</sys_created_on>
+            <sys_id>18a490ae830dc790e4b6ad20ceaad3cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:01</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.alm_asset.clm_m2m_contract_asset.asset</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:01</sys_created_on>
+            <sys_id>58a490ae830dc790e4b6ad20ceaad3d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:01</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Contracts</caption>
+            <header>false</header>
+            <name>x_1920732_it_ass_0_desktop</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-27 02:10:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10a490ae830dc790e4b6ad20ceaad3cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1920732_it_ass_0_desktop</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+            <sys_update_name>sys_ui_section_10a490ae830dc790e4b6ad20ceaad3cd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-27 02:10:00</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</application>
+        <file_path/>
+        <instance_id>ec313b1ceb152e585a2dfceacad0cd4f</instance_id>
+        <instance_name>dev339798</instance_name>
+        <name>sys_ui_section_10a490ae830dc790e4b6ad20ceaad3cd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Contracts" section_id="10a490ae830dc790e4b6ad20ceaad3cd" sys_domain="global" table="x_1920732_it_ass_0_desktop" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:10:01</sys_created_on><sys_id>9ca490ae830dc790e4b6ad20ceaad3d0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:10:01</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>lease_id</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:10:01</sys_created_on><sys_id>dca490ae830dc790e4b6ad20ceaad3d2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:10:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>warranty_expiration</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:10:01</sys_created_on><sys_id>d0a490ae830dc790e4b6ad20ceaad3d0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:10:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:10:01</sys_created_on><sys_id>98a490ae830dc790e4b6ad20ceaad3d3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:10:01</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>support_group</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:10:01</sys_created_on><sys_id>5ca490ae830dc790e4b6ad20ceaad3ce</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:10:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>supported_by</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:10:01</sys_created_on><sys_id>14a490ae830dc790e4b6ad20ceaad3d2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:10:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:10:01</sys_created_on><sys_id>18a490ae830dc790e4b6ad20ceaad3cf</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:10:01</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>12M.alm_asset.clm_m2m_contract_asset.asset</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:10:01</sys_created_on><sys_id>58a490ae830dc790e4b6ad20ceaad3d1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Contracts" display_value="Contracts" name="x_1920732_it_ass_0_desktop" sys_domain="global" view="Default view">10a490ae830dc790e4b6ad20ceaad3cd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:10:01</sys_updated_on><sys_user/><type>list</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Contracts</caption><header>false</header><name>x_1920732_it_ass_0_desktop</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-27 02:10:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>10a490ae830dc790e4b6ad20ceaad3cd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1920732_it_ass_0_desktop</sys_name><sys_overrides/><sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package><sys_policy/><sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope><sys_update_name>sys_ui_section_10a490ae830dc790e4b6ad20ceaad3cd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-27 02:10:00</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>514513137</payload_hash>
+        <record_name>Desktop</record_name>
+        <reverted_from/>
+        <source>95f1f91683498790e4b6ad20ceaad340</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-27 02:10:01</sys_created_on>
+        <sys_id>1ca490ae830dc790e4b6ad20ceaad3d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e67322b030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-27 02:10:01</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>dca490aea30dc790807de2f0793f96d6</update_guid>
+        <update_guid_history>dca490aea30dc790807de2f0793f96d6:514513137</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-27 02:30:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>189178135fbe4b17997e3178eaf089e1</sys_id>
+        <sys_metadata>10a490ae830dc790e4b6ad20ceaad3cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contracts</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_parent display_value="Desktop">a39490ae830dc790e4b6ad20ceaad309</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_scope_delete display_value="">55ecfa90307241cc9cfbee5f3c020679</sys_scope_delete>
+        <sys_update_name>sys_ui_section_10a490ae830dc790e4b6ad20ceaad3cd</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_10a490ae830dc790e4b6ad20ceaad3cd">1ca490ae830dc790e4b6ad20ceaad3d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-27 02:30:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
