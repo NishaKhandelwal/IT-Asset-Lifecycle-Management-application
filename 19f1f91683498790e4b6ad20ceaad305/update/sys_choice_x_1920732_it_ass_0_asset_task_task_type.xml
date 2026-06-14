@@ -136,5 +136,25 @@
             <sys_updated_on>2026-06-10 14:36:39</sys_updated_on>
             <value>retirement</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer</label>
+            <language>en</language>
+            <name>x_1920732_it_ass_0_asset_task</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-14 09:26:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3715ee9c83218710e4b6ad20ceaad3f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-14 09:26:23</sys_updated_on>
+            <value>transfer</value>
+        </sys_choice>
     </sys_choice>
 </record_update>

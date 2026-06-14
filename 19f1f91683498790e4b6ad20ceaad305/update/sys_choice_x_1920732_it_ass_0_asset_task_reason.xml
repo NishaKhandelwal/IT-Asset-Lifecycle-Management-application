@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="reason" table="x_1920732_it_ass_0_asset_task" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>reason</element>
+            <name>x_1920732_it_ass_0_asset_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-14 09:39:32</sys_created_on>
+            <sys_id>6428a29483618710e4b6ad20ceaad3a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>reason</sys_name>
+            <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+            <sys_update_name>sys_choice_x_1920732_it_ass_0_asset_task_reason</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-14 09:39:32</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Department Change</label>
+            <language>en</language>
+            <name>x_1920732_it_ass_0_asset_task</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-14 09:39:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c28a29483618710e4b6ad20ceaad39f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-14 09:39:32</sys_updated_on>
+            <value>department_change</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Employee Exit</label>
+            <language>en</language>
+            <name>x_1920732_it_ass_0_asset_task</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-14 09:39:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c28a29483618710e4b6ad20ceaad3bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-14 09:39:32</sys_updated_on>
+            <value>employee_exit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Temporary Assignment</label>
+            <language>en</language>
+            <name>x_1920732_it_ass_0_asset_task</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-14 09:39:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2028a29483618710e4b6ad20ceaad3cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-14 09:39:33</sys_updated_on>
+            <value>temporary_assignment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Role Change</label>
+            <language>en</language>
+            <name>x_1920732_it_ass_0_asset_task</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-14 09:39:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a828a29483618710e4b6ad20ceaad3e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-14 09:39:33</sys_updated_on>
+            <value>role_change</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_1920732_it_ass_0_asset_task</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-14 09:39:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c28a29483618710e4b6ad20ceaad3f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-14 09:39:33</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

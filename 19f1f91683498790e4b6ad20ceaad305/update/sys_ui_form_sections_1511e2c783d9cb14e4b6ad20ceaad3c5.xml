@@ -14,6 +14,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-10 11:56:19</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-14 12:56:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>233557d483e58710e4b6ad20ceaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1920732_it_ass_0_asset_task" name="x_1920732_it_ass_0_asset_task" sys_domain="global" view="Default view">1511e2c783d9cb14e4b6ad20ceaad3c5</sys_ui_form>
+            <sys_ui_section caption="Replacement Details" display_value="Replacement Details" name="x_1920732_it_ass_0_asset_task" sys_domain="global" view="Default view">2b3557d483e58710e4b6ad20ceaad38b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-14 12:56:38</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1920732_it_ass_0_asset_task</name>
             <roles/>

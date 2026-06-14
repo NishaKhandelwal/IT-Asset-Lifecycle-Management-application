@@ -42,6 +42,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-05-27 02:34:19</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-14 13:50:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30a127d083698710e4b6ad20ceaad3ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1920732_it_ass_0_mobile_phone" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">ae3694ae830dc790e4b6ad20ceaad351</sys_ui_form>
+            <sys_ui_section caption="Warranty Details" display_value="Warranty Details" name="x_1920732_it_ass_0_mobile_phone" sys_domain="global" view="Default view">7ca127d083698710e4b6ad20ceaad3a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-14 13:50:47</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1920732_it_ass_0_mobile_phone</name>
             <roles/>

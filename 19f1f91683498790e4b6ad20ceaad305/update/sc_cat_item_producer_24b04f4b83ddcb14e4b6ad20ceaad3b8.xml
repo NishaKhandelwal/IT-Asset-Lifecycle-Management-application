@@ -93,6 +93,7 @@ current.description =
 producer.retirement_reason +
 '\n\nComments: ' +
 producer.comments;]]></script>
+        <secondary_owners/>
         <short_description/>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>

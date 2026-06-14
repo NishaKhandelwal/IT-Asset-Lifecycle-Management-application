@@ -2,6 +2,7 @@
     <sys_ui_related sys_domain="global" table="x_1920732_it_ass_0_desktop" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
+            <group_by_field/>
             <list_id display_value="Desktop - Default view" name="x_1920732_it_ass_0_desktop" related_list="NULL" sys_domain="global" view="Default view">04a1d30f83510f14e4b6ad20ceaad3bd</list_id>
             <order_by/>
             <position>0</position>
@@ -16,6 +17,7 @@
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
+            <group_by_field/>
             <list_id display_value="Desktop - Default view" name="x_1920732_it_ass_0_desktop" related_list="NULL" sys_domain="global" view="Default view">04a1d30f83510f14e4b6ad20ceaad3bd</list_id>
             <order_by/>
             <position>1</position>

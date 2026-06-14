@@ -9,6 +9,7 @@
         <edit_locked/>
         <enable_data_cache>false</enable_data_cache>
         <include_custom_insights>true</include_custom_insights>
+        <include_insight_sentiment>true</include_insight_sentiment>
         <include_key_contributors>true</include_key_contributors>
         <include_kpi_signals>true</include_kpi_signals>
         <include_predictive_target>true</include_predictive_target>
@@ -26,6 +27,7 @@
         <refresh_interval>-1</refresh_interval>
         <requested_by_user/>
         <schedule_repetition>false</schedule_repetition>
+        <show_ai_insights_panel>true</show_ai_insights_panel>
         <show_insights_panel>true</show_insights_panel>
         <sys_class_name>par_dashboard_user_metadata</sys_class_name>
         <sys_created_by>admin</sys_created_by>

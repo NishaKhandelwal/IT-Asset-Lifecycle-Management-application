@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Transfer Asset">92056e9c83218710e4b6ad20ceaad348</sc_cat_item>
+        <sc_catalog display_value="IT Asset Catalog">a1a375878355cb14e4b6ad20ceaad3e7</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-14 09:27:11</sys_created_on>
+        <sys_id>2b45a6dc83218710e4b6ad20ceaad3da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Asset Catalog.Transfer Asset</sys_name>
+        <sys_package display_value="IT Asset Management System " source="x_1920732_it_ass_0">19f1f91683498790e4b6ad20ceaad305</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management System ">19f1f91683498790e4b6ad20ceaad305</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_2b45a6dc83218710e4b6ad20ceaad3da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-14 09:27:11</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
